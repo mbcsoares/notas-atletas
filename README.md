@@ -14,7 +14,7 @@ A competição em questão possui a seguinte regra de avaliação:
 **Especificações:** Criar uma função capaz de receber uma matriz de objetos contendo o nome do atleta e as cinco notas atribuídas. Essa função deverá calcular a média das notas sem considerar a maior e menor nota do atleta. Por fim, deverá apresentar ao usuário o nome de cada atleta, seguido das notas e da média calculada.
 
 **Entrada:**
-```
+```JavaScript
 let atletas = [
  {
    nome: "Cesar Abascal",
